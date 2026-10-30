@@ -140,9 +140,11 @@ the selftest now does that every time; the migration was run on a copy of user 0
 
 ## v2.0 — after v1.4 — the page on a framework
 
-Decided 2026-10-30 (user 001). A prototype of This month in React was built to compare
-(`proto-react-month` branch); the move is planned here so it does not land in the middle of the
-first release.
+Decided 2026-10-30 (user 001). This month was built twice in React to compare, on the
+`proto-react-month` branch (`prototypes/`): with Tremor, and with shadcn/ui. The shadcn/ui build
+keeps the page's look, reads as four shared blocks (a labelled card, a stat, a label-and-value
+list, a ranked bar row) plus the flow chart, and is 216 KB as one file. It is the starting point.
+The move is planned here so it does not land in the middle of the first release.
 
 - **The page is built from components, not from strings.** React with shadcn/ui, whose
   components are copied into the repository as source; Svelte 5 is the second choice. Tremor is
