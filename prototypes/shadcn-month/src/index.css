@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* The page's own palette, written as shadcn/ui's variables (HSL without the hsl()). */
+@layer base {
+  :root {
+    --background: 48 14% 97%;      /* page */
+    --foreground: 60 3% 7%;        /* ink */
+    --card: 60 20% 99%;
+    --card-foreground: 60 3% 7%;
+    --primary: 60 3% 7%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 48 10% 94%;
+    --secondary-foreground: 60 3% 20%;
+    --muted: 48 10% 94%;           /* pill, bar tracks */
+    --muted-foreground: 45 3% 44%; /* muted ink */
+    --accent: 48 10% 92%;
+    --accent-foreground: 60 3% 7%;
+    --destructive: 0 63% 52%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 45 12% 89%;
+    --input: 45 12% 89%;
+    --ring: 60 3% 7%;
+    --radius: 0.625rem;
+  }
+  * { @apply border-border; }
+  body { @apply bg-background text-foreground antialiased; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; font-variant-numeric: tabular-nums; }
+}

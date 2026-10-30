@@ -1,0 +1,1234 @@
+{
+ "owner": "",
+ "today": "2026-10-29",
+ "allowance": 1300,
+ "bigThreshold": 300,
+ "plan": [
+  {
+   "name": "Rent",
+   "amount": 1250,
+   "color": "#75736d"
+  },
+  {
+   "name": "Invest",
+   "amount": 800,
+   "color": "#2a78d6"
+  },
+  {
+   "name": "Everyday",
+   "amount": 1300,
+   "color": "#eb6834"
+  },
+  {
+   "name": "Big buys",
+   "amount": 250,
+   "color": "#eda100"
+  },
+  {
+   "name": "Travel",
+   "amount": 0,
+   "color": "#4a3aa7"
+  }
+ ],
+ "months": [
+  {
+   "ym": "2026-06",
+   "label": "Jun 2026",
+   "everyday": 969.5400000000001,
+   "open": false,
+   "daysElapsed": 30,
+   "daysInMonth": 30,
+   "total": 2694.729999999999,
+   "purchases": 37,
+   "usual": 2411.529999999999,
+   "window": 5,
+   "bigBuys": [
+    {
+     "merchant": "BEST BUY #957 OTTAWA ON",
+     "amount": 429.99
+    }
+   ],
+   "categories": [
+    {
+     "key": "Housing",
+     "name": "Housing",
+     "color": "#1baf7a",
+     "total": 1250,
+     "usual": 1250,
+     "items": [
+      {
+       "date": "2026-06-01",
+       "merchant": "OTTAWA PROP MGMT RENT (chequing)",
+       "amount": 1250,
+       "sub": false
+      }
+     ]
+    },
+    {
+     "key": "Shopping",
+     "name": "Shopping",
+     "color": "#eda100",
+     "total": 539.1700000000001,
+     "usual": 167.3,
+     "items": [
+      {
+       "date": "2026-06-14",
+       "merchant": "BEST BUY #957 OTTAWA ON",
+       "amount": 429.99,
+       "sub": false
+      },
+      {
+       "date": "2026-06-11",
+       "merchant": "AMAZON.CA AMAZON.CA",
+       "amount": 33.43,
+       "sub": false
+      },
+      {
+       "date": "2026-06-08",
+       "merchant": "AMZN MKTP CA",
+       "amount": 32.04,
+       "sub": false
+      },
+      {
+       "date": "2026-06-17",
+       "merchant": "CANADIAN TIRE #030 OTTAWA ON",
+       "amount": 19.97,
+       "sub": false
+      },
+      {
+       "date": "2026-06-21",
+       "merchant": "DOLLARAMA #1052 OTTAWA ON",
+       "amount": 12.75,
+       "sub": false
+      },
+      {
+       "date": "2026-06-22",
+       "merchant": "AMAZON PRIME MEMBER AMAZON.CA",
+       "amount": 10.99,
+       "sub": true
+      }
+     ]
+    },
+    {
+     "key": "Grocery",
+     "name": "Groceries",
+     "color": "#2a78d6",
+     "total": 436.36,
+     "usual": 440.35,
+     "items": [
+      {
+       "date": "2026-06-05",
+       "merchant": "COSTCO WHOLESALE W1211 OTTAWA ON",
+       "amount": 139.74,
+       "sub": false
+      },
+      {
+       "date": "2026-06-06",
+       "merchant": "LOBLAWS 1234 OTTAWA ON",
+       "amount": 74.4,
+       "sub": false
+      },
+      {
+       "date": "2026-06-09",
+       "merchant": "LOBLAWS 1234 OTTAWA ON",
+       "amount": 62.75,
+       "sub": false
+      },
+      {
+       "date": "2026-06-06",
+       "merchant": "METRO 456 OTTAWA ON",
+       "amount": 58.47,
+       "sub": false
+      },
+      {
+       "date": "2026-06-01",
+       "merchant": "FARM BOY #17 OTTAWA ON",
+       "amount": 42.53,
+       "sub": false
+      },
+      {
+       "date": "2026-06-19",
+       "merchant": "FARM BOY #17 OTTAWA ON",
+       "amount": 33.81,
+       "sub": false
+      },
+      {
+       "date": "2026-06-08",
+       "merchant": "FARM BOY #17 OTTAWA ON",
+       "amount": 24.66,
+       "sub": false
+      }
+     ]
+    },
+    {
+     "key": "Transport",
+     "name": "Transport",
+     "color": "#e87ba4",
+     "total": 151.18,
+     "usual": 152.98,
+     "items": [
+      {
+       "date": "2026-06-26",
+       "merchant": "OC TRANSPO MONTHLY PASS OTTAWA ON",
+       "amount": 135,
+       "sub": true
+      },
+      {
+       "date": "2026-06-03",
+       "merchant": "UBER CANADA/UBERTRIP TORONTO ON",
+       "amount": 16.18,
+       "sub": false
+      }
+     ]
+    },
+    {
+     "key": "Dining",
+     "name": "Dining",
+     "color": "#eb6834",
+     "total": 118.32000000000002,
+     "usual": 121.35,
+     "items": [
+      {
+       "date": "2026-06-30",
+       "merchant": "UBER CANADA/UBEREATS TORONTO ON",
+       "amount": 32.23,
+       "sub": false
+      },
+      {
+       "date": "2026-06-29",
+       "merchant": "UBER CANADA/UBEREATS TORONTO ON",
+       "amount": 22.27,
+       "sub": false
+      },
+      {
+       "date": "2026-06-20",
+       "merchant": "THAI EXPRESS OTTAWA ON",
+       "amount": 14.8,
+       "sub": false
+      },
+      {
+       "date": "2026-06-21",
+       "merchant": "SUBWAY 40112 OTTAWA ON",
+       "amount": 13.32,
+       "sub": false
+      },
+      {
+       "date": "2026-06-12",
+       "merchant": "TIM HORTONS #2231 OTTAWA ON",
+       "amount": 7.45,
+       "sub": false
+      },
+      {
+       "date": "2026-06-24",
+       "merchant": "TIM HORTONS #2231 OTTAWA ON (debit)",
+       "amount": 6.51,
+       "sub": false
+      },
+      {
+       "date": "2026-06-25",
+       "merchant": "STARBUCKS 1100 OTTAWA ON",
+       "amount": 6.24,
+       "sub": false
+      },
+      {
+       "date": "2026-06-06",
+       "merchant": "TIM HORTONS #2231 OTTAWA ON",
+       "amount": 5.53,
+       "sub": false
+      },
+      {
+       "date": "2026-06-12",
+       "merchant": "TIM HORTONS #2231 OTTAWA ON (debit)",
+       "amount": 5.4,
+       "sub": false
+      },
+      {
+       "date": "2026-06-04",
+       "merchant": "TIM HORTONS #2231 OTTAWA ON",
+       "amount": 4.57,
+       "sub": false
+      }
+     ]
+    },
+    {
+     "key": "Health",
+     "name": "Health",
+     "color": "#5bc4d6",
+     "total": 70.35,
+     "usual": 100,
+     "items": [
+      {
+       "date": "2026-06-01",
+       "merchant": "GOODLIFE FITNESS TORONTO ON",
+       "amount": 32.99,
+       "sub": true
+      },
+      {
+       "date": "2026-06-12",
+       "merchant": "SHOPPERS DRUG MART 0781 OTTAWA ON",
+       "amount": 20.37,
+       "sub": false
+      },
+      {
+       "date": "2026-06-22",
+       "merchant": "SHOPPERS DRUG MART 0781 OTTAWA ON",
+       "amount": 16.99,
+       "sub": false
+      }
+     ]
+    },
+    {
+     "key": "Entertainment",
+     "name": "Entertainment",
+     "color": "#8a5a2b",
+     "total": 63.2,
+     "usual": 69.82,
+     "items": [
+      {
+       "date": "2026-06-12",
+       "merchant": "NETFLIX.COM NETFLIX.COM",
+       "amount": 18.99,
+       "sub": true
+      },
+      {
+       "date": "2026-06-04",
+       "merchant": "CINEPLEX 7620 OTTAWA ON",
+       "amount": 17.6,
+       "sub": false
+      },
+      {
+       "date": "2026-06-15",
+       "merchant": "STEAM PURCHASE SEATTLE WA",
+       "amount": 11.33,
+       "sub": false
+      },
+      {
+       "date": "2026-06-04",
+       "merchant": "SPOTIFY SPOTIFY.COM",
+       "amount": 11.29,
+       "sub": true
+      },
+      {
+       "date": "2026-06-16",
+       "merchant": "APPLE.COM/BILL TORONTO ON",
+       "amount": 3.99,
+       "sub": true
+      }
+     ]
+    },
+    {
+     "key": "Bills",
+     "name": "Bills",
+     "color": "#6250d6",
+     "total": 45.2,
+     "usual": 45.2,
+     "items": [
+      {
+       "date": "2026-06-10",
+       "merchant": "KOODO MOBILE",
+       "amount": 45.2,
+       "sub": true
+      }
+     ]
+    },
+    {
+     "key": "Fees",
+     "name": "Fees & interest",
+     "color": "#1f3f74",
+     "total": 20.95,
+     "usual": 20.95,
+     "items": [
+      {
+       "date": "2026-06-30",
+       "merchant": "PerformancePlanFee (chequing)",
+       "amount": 16.95,
+       "sub": false
+      },
+      {
+       "date": "2026-06-25",
+       "merchant": "Monthly fee (chequing)",
+       "amount": 4,
+       "sub": false
+      }
+     ]
+    }
+   ],
+   "flow": {
+    "allowance": 1300,
+    "spent": 969.5400000000001,
+    "over": 0,
+    "left": [
+     {
+      "k": "Take-home",
+      "v": 3600,
+      "c": "#0b0b0b"
+     }
+    ],
+    "mid": [
+     {
+      "k": "Rent",
+      "v": 1250,
+      "c": "#75736d",
+      "alw": false
+     },
+     {
+      "k": "Invest",
+      "v": 800,
+      "c": "#2a78d6",
+      "alw": false
+     },
+     {
+      "k": "Everyday",
+      "v": 1300,
+      "c": "#eb6834",
+      "alw": true
+     },
+     {
+      "k": "Big buys",
+      "v": 250,
+      "c": "#eda100",
+      "alw": false
+     }
+    ],
+    "right": [
+     {
+      "k": "Grocery",
+      "n": "Groceries",
+      "v": 436.36,
+      "c": "#2a78d6"
+     },
+     {
+      "k": "Dining",
+      "n": "Dining",
+      "v": 118.32,
+      "c": "#eb6834"
+     },
+     {
+      "k": "Shopping",
+      "n": "Shopping",
+      "v": 109.17999999999999,
+      "c": "#eda100"
+     },
+     {
+      "k": "Transport",
+      "n": "Transport",
+      "v": 151.18,
+      "c": "#e87ba4"
+     },
+     {
+      "k": "Entertainment",
+      "n": "Entertainment",
+      "v": 63.199999999999996,
+      "c": "#8a5a2b"
+     },
+     {
+      "k": "Health",
+      "n": "Health",
+      "v": 70.35,
+      "c": "#5bc4d6"
+     },
+     {
+      "k": "Fees",
+      "n": "Fees & interest",
+      "v": 20.95,
+      "c": "#1f3f74"
+     },
+     {
+      "k": "Left over, into the funds",
+      "v": 330.4599999999999,
+      "c": "#efeeea",
+      "rest": true
+     }
+    ]
+   }
+  },
+  {
+   "ym": "2026-07",
+   "label": "Jul 2026",
+   "everyday": 1146.79,
+   "open": false,
+   "daysElapsed": 31,
+   "daysInMonth": 31,
+   "total": 2441.9900000000002,
+   "purchases": 35,
+   "usual": 2418.449999999999,
+   "window": 6,
+   "bigBuys": [],
+   "categories": [
+    {
+     "key": "Housing",
+     "name": "Housing",
+     "color": "#1baf7a",
+     "total": 1250,
+     "usual": 1250,
+     "items": [
+      {
+       "date": "2026-07-01",
+       "merchant": "OTTAWA PROP MGMT RENT (chequing)",
+       "amount": 1250,
+       "sub": false
+      }
+     ]
+    },
+    {
+     "key": "Grocery",
+     "name": "Groceries",
+     "color": "#2a78d6",
+     "total": 459.87999999999994,
+     "usual": 439.235,
+     "items": [
+      {
+       "date": "2026-07-28",
+       "merchant": "COSTCO WHOLESALE W1211 OTTAWA ON",
+       "amount": 139.96,
+       "sub": false
+      },
+      {
+       "date": "2026-07-12",
+       "merchant": "LOBLAWS 1234 OTTAWA ON",
+       "amount": 83.43,
+       "sub": false
+      },
+      {
+       "date": "2026-07-26",
+       "merchant": "LOBLAWS 1234 OTTAWA ON",
+       "amount": 68.63,
+       "sub": false
+      },
+      {
+       "date": "2026-07-20",
+       "merchant": "FARM BOY #17 OTTAWA ON",
+       "amount": 48.33,
+       "sub": false
+      },
+      {
+       "date": "2026-07-05",
+       "merchant": "FARM BOY #17 OTTAWA ON",
+       "amount": 47.83,
+       "sub": false
+      },
+      {
+       "date": "2026-07-13",
+       "merchant": "METRO 456 OTTAWA ON",
+       "amount": 42.27,
+       "sub": false
+      },
+      {
+       "date": "2026-07-20",
+       "merchant": "FARM BOY #17 OTTAWA ON",
+       "amount": 29.43,
+       "sub": false
+      }
+     ]
+    },
+    {
+     "key": "Transport",
+     "name": "Transport",
+     "color": "#e87ba4",
+     "total": 162.37,
+     "usual": 152.07999999999998,
+     "items": [
+      {
+       "date": "2026-07-26",
+       "merchant": "OC TRANSPO MONTHLY PASS OTTAWA ON",
+       "amount": 135,
+       "sub": true
+      },
+      {
+       "date": "2026-07-13",
+       "merchant": "UBER CANADA/UBERTRIP TORONTO ON",
+       "amount": 27.37,
+       "sub": false
+      }
+     ]
+    },
+    {
+     "key": "Entertainment",
+     "name": "Entertainment",
+     "color": "#8a5a2b",
+     "total": 156.41,
+     "usual": 66.50999999999999,
+     "items": [
+      {
+       "date": "2026-07-18",
+       "merchant": "TICKETMASTER CANADA TORONTO ON",
+       "amount": 92.5,
+       "sub": false
+      },
+      {
+       "date": "2026-07-22",
+       "merchant": "CINEPLEX 7620 OTTAWA ON",
+       "amount": 29.64,
+       "sub": false
+      },
+      {
+       "date": "2026-07-12",
+       "merchant": "NETFLIX.COM NETFLIX.COM",
+       "amount": 18.99,
+       "sub": true
+      },
+      {
+       "date": "2026-07-04",
+       "merchant": "SPOTIFY SPOTIFY.COM",
+       "amount": 11.29,
+       "sub": true
+      },
+      {
+       "date": "2026-07-16",
+       "merchant": "APPLE.COM/BILL TORONTO ON",
+       "amount": 3.99,
+       "sub": true
+      }
+     ]
+    },
+    {
+     "key": "Dining",
+     "name": "Dining",
+     "color": "#eb6834",
+     "total": 148.49,
+     "usual": 119.835,
+     "items": [
+      {
+       "date": "2026-07-28",
+       "merchant": "UBER CANADA/UBEREATS TORONTO ON",
+       "amount": 43.1,
+       "sub": false
+      },
+      {
+       "date": "2026-07-09",
+       "merchant": "UBER CANADA/UBEREATS TORONTO ON",
+       "amount": 37.48,
+       "sub": false
+      },
+      {
+       "date": "2026-07-28",
+       "merchant": "THAI EXPRESS OTTAWA ON",
+       "amount": 18.78,
+       "sub": false
+      },
+      {
+       "date": "2026-07-02",
+       "merchant": "SUBWAY 40112 OTTAWA ON",
+       "amount": 13.15,
+       "sub": false
+      },
+      {
+       "date": "2026-07-24",
+       "merchant": "STARBUCKS 1100 OTTAWA ON",
+       "amount": 7.52,
+       "sub": false
+      },
+      {
+       "date": "2026-07-04",
+       "merchant": "TIM HORTONS #2231 OTTAWA ON",
+       "amount": 7.39,
+       "sub": false
+      },
+      {
+       "date": "2026-07-12",
+       "merchant": "TIM HORTONS #2231 OTTAWA ON (debit)",
+       "amount": 6.02,
+       "sub": false
+      },
+      {
+       "date": "2026-07-14",
+       "merchant": "TIM HORTONS #2231 OTTAWA ON",
+       "amount": 5.8,
+       "sub": false
+      },
+      {
+       "date": "2026-07-03",
+       "merchant": "TIM HORTONS #2231 OTTAWA ON",
+       "amount": 4.66,
+       "sub": false
+      },
+      {
+       "date": "2026-07-11",
+       "merchant": "TIM HORTONS #2231 OTTAWA ON (debit)",
+       "amount": 4.59,
+       "sub": false
+      }
+     ]
+    },
+    {
+     "key": "Shopping",
+     "name": "Shopping",
+     "color": "#eda100",
+     "total": 135.17,
+     "usual": 185.09500000000003,
+     "items": [
+      {
+       "date": "2026-07-29",
+       "merchant": "AMAZON.CA AMAZON.CA",
+       "amount": 76.75,
+       "sub": false
+      },
+      {
+       "date": "2026-07-06",
+       "merchant": "AMZN MKTP CA",
+       "amount": 39.98,
+       "sub": false
+      },
+      {
+       "date": "2026-07-22",
+       "merchant": "AMAZON PRIME MEMBER AMAZON.CA",
+       "amount": 10.99,
+       "sub": true
+      },
+      {
+       "date": "2026-07-20",
+       "merchant": "DOLLARAMA #1052 OTTAWA ON",
+       "amount": 7.45,
+       "sub": false
+      }
+     ]
+    },
+    {
+     "key": "Health",
+     "name": "Health",
+     "color": "#5bc4d6",
+     "total": 63.52,
+     "usual": 88.685,
+     "items": [
+      {
+       "date": "2026-07-01",
+       "merchant": "GOODLIFE FITNESS TORONTO ON",
+       "amount": 32.99,
+       "sub": true
+      },
+      {
+       "date": "2026-07-22",
+       "merchant": "SHOPPERS DRUG MART 0781 OTTAWA ON",
+       "amount": 16.77,
+       "sub": false
+      },
+      {
+       "date": "2026-07-13",
+       "merchant": "SHOPPERS DRUG MART 0781 OTTAWA ON",
+       "amount": 13.76,
+       "sub": false
+      }
+     ]
+    },
+    {
+     "key": "Bills",
+     "name": "Bills",
+     "color": "#6250d6",
+     "total": 45.2,
+     "usual": 45.2,
+     "items": [
+      {
+       "date": "2026-07-10",
+       "merchant": "KOODO MOBILE",
+       "amount": 45.2,
+       "sub": true
+      }
+     ]
+    },
+    {
+     "key": "Fees",
+     "name": "Fees & interest",
+     "color": "#1f3f74",
+     "total": 20.95,
+     "usual": 20.95,
+     "items": [
+      {
+       "date": "2026-07-31",
+       "merchant": "PerformancePlanFee (chequing)",
+       "amount": 16.95,
+       "sub": false
+      },
+      {
+       "date": "2026-07-25",
+       "merchant": "Monthly fee (chequing)",
+       "amount": 4,
+       "sub": false
+      }
+     ]
+    }
+   ],
+   "flow": {
+    "allowance": 1300,
+    "spent": 1146.79,
+    "over": 0,
+    "left": [
+     {
+      "k": "Take-home",
+      "v": 3600,
+      "c": "#0b0b0b"
+     }
+    ],
+    "mid": [
+     {
+      "k": "Rent",
+      "v": 1250,
+      "c": "#75736d",
+      "alw": false
+     },
+     {
+      "k": "Invest",
+      "v": 800,
+      "c": "#2a78d6",
+      "alw": false
+     },
+     {
+      "k": "Everyday",
+      "v": 1300,
+      "c": "#eb6834",
+      "alw": true
+     },
+     {
+      "k": "Big buys",
+      "v": 250,
+      "c": "#eda100",
+      "alw": false
+     }
+    ],
+    "right": [
+     {
+      "k": "Grocery",
+      "n": "Groceries",
+      "v": 459.88,
+      "c": "#2a78d6"
+     },
+     {
+      "k": "Dining",
+      "n": "Dining",
+      "v": 148.48999999999998,
+      "c": "#eb6834"
+     },
+     {
+      "k": "Shopping",
+      "n": "Shopping",
+      "v": 135.17000000000002,
+      "c": "#eda100"
+     },
+     {
+      "k": "Transport",
+      "n": "Transport",
+      "v": 162.37,
+      "c": "#e87ba4"
+     },
+     {
+      "k": "Entertainment",
+      "n": "Entertainment",
+      "v": 156.41,
+      "c": "#8a5a2b"
+     },
+     {
+      "k": "Health",
+      "n": "Health",
+      "v": 63.519999999999996,
+      "c": "#5bc4d6"
+     },
+     {
+      "k": "Fees",
+      "n": "Fees & interest",
+      "v": 20.95,
+      "c": "#1f3f74"
+     },
+     {
+      "k": "Left over, into the funds",
+      "v": 153.21000000000004,
+      "c": "#efeeea",
+      "rest": true
+     }
+    ]
+   }
+  },
+  {
+   "ym": "2026-08",
+   "label": "Aug 2026",
+   "everyday": 370.76,
+   "open": false,
+   "daysElapsed": 31,
+   "daysInMonth": 31,
+   "total": 1665.9599999999998,
+   "purchases": 26,
+   "usual": 2425.369999999999,
+   "window": 7,
+   "bigBuys": [],
+   "categories": [
+    {
+     "key": "Housing",
+     "name": "Housing",
+     "color": "#1baf7a",
+     "total": 1250,
+     "usual": 1250,
+     "items": [
+      {
+       "date": "2026-08-01",
+       "merchant": "OTTAWA PROP MGMT RENT (chequing)",
+       "amount": 1250,
+       "sub": false
+      }
+     ]
+    },
+    {
+     "key": "Grocery",
+     "name": "Groceries",
+     "color": "#2a78d6",
+     "total": 165.04000000000002,
+     "usual": 440.35,
+     "items": [
+      {
+       "date": "2026-08-18",
+       "merchant": "LOBLAWS 1234 OTTAWA ON",
+       "amount": 65.04,
+       "sub": false
+      },
+      {
+       "date": "2026-08-02",
+       "merchant": "FARM BOY #17 OTTAWA ON",
+       "amount": 38.83,
+       "sub": false
+      },
+      {
+       "date": "2026-08-16",
+       "merchant": "FARM BOY #17 OTTAWA ON",
+       "amount": 37.99,
+       "sub": false
+      },
+      {
+       "date": "2026-08-13",
+       "merchant": "FARM BOY #17 OTTAWA ON",
+       "amount": 23.18,
+       "sub": false
+      }
+     ]
+    },
+    {
+     "key": "Dining",
+     "name": "Dining",
+     "color": "#eb6834",
+     "total": 122.4,
+     "usual": 121.35,
+     "items": [
+      {
+       "date": "2026-08-10",
+       "merchant": "UBER CANADA/UBEREATS TORONTO ON",
+       "amount": 38.09,
+       "sub": false
+      },
+      {
+       "date": "2026-08-17",
+       "merchant": "UBER CANADA/UBEREATS TORONTO ON",
+       "amount": 30.28,
+       "sub": false
+      },
+      {
+       "date": "2026-08-12",
+       "merchant": "SUBWAY 40112 OTTAWA ON",
+       "amount": 14.17,
+       "sub": false
+      },
+      {
+       "date": "2026-08-15",
+       "merchant": "THAI EXPRESS OTTAWA ON",
+       "amount": 12.4,
+       "sub": false
+      },
+      {
+       "date": "2026-08-12",
+       "merchant": "TIM HORTONS #2231 OTTAWA ON",
+       "amount": 8.84,
+       "sub": false
+      },
+      {
+       "date": "2026-08-19",
+       "merchant": "STARBUCKS 1100 OTTAWA ON",
+       "amount": 7.07,
+       "sub": false
+      },
+      {
+       "date": "2026-08-06",
+       "merchant": "TIM HORTONS #2231 OTTAWA ON",
+       "amount": 6.65,
+       "sub": false
+      },
+      {
+       "date": "2026-08-10",
+       "merchant": "TIM HORTONS #2231 OTTAWA ON",
+       "amount": 6.35,
+       "sub": false
+      },
+      {
+       "date": "2026-08-09",
+       "merchant": "TIM HORTONS #2231 OTTAWA ON (debit)",
+       "amount": 5.67,
+       "sub": false
+      },
+      {
+       "date": "2026-08-19",
+       "merchant": "TIM HORTONS #2231 OTTAWA ON (debit)",
+       "amount": 5.28,
+       "sub": false
+      },
+      {
+       "date": "2026-08-12",
+       "merchant": "UBER CANADA/UBEREATS TORONTO ON",
+       "amount": -12.4,
+       "sub": false
+      }
+     ]
+    },
+    {
+     "key": "Bills",
+     "name": "Bills",
+     "color": "#6250d6",
+     "total": 45.2,
+     "usual": 45.2,
+     "items": [
+      {
+       "date": "2026-08-10",
+       "merchant": "KOODO MOBILE",
+       "amount": 45.2,
+       "sub": true
+      }
+     ]
+    },
+    {
+     "key": "Entertainment",
+     "name": "Entertainment",
+     "color": "#8a5a2b",
+     "total": 34.269999999999996,
+     "usual": 69.82,
+     "items": [
+      {
+       "date": "2026-08-12",
+       "merchant": "NETFLIX.COM NETFLIX.COM",
+       "amount": 18.99,
+       "sub": true
+      },
+      {
+       "date": "2026-08-04",
+       "merchant": "SPOTIFY SPOTIFY.COM",
+       "amount": 11.29,
+       "sub": true
+      },
+      {
+       "date": "2026-08-16",
+       "merchant": "APPLE.COM/BILL TORONTO ON",
+       "amount": 3.99,
+       "sub": true
+      }
+     ]
+    },
+    {
+     "key": "Health",
+     "name": "Health",
+     "color": "#5bc4d6",
+     "total": 32.99,
+     "usual": 77.37,
+     "items": [
+      {
+       "date": "2026-08-01",
+       "merchant": "GOODLIFE FITNESS TORONTO ON",
+       "amount": 32.99,
+       "sub": true
+      }
+     ]
+    },
+    {
+     "key": "Shopping",
+     "name": "Shopping",
+     "color": "#eda100",
+     "total": 8.110000000000003,
+     "usual": 167.3,
+     "items": [
+      {
+       "date": "2026-08-19",
+       "merchant": "WINNERS 3215 OTTAWA ON",
+       "amount": 33.1,
+       "sub": false
+      },
+      {
+       "date": "2026-08-14",
+       "merchant": "AMAZON.CA AMAZON.CA",
+       "amount": -24.99,
+       "sub": false
+      }
+     ]
+    },
+    {
+     "key": "Fees",
+     "name": "Fees & interest",
+     "color": "#1f3f74",
+     "total": 7.949999999999999,
+     "usual": 20.95,
+     "items": [
+      {
+       "date": "2026-08-31",
+       "merchant": "PerformancePlanFee (chequing)",
+       "amount": 16.95,
+       "sub": false
+      },
+      {
+       "date": "2026-08-25",
+       "merchant": "Monthly fee (chequing)",
+       "amount": 4,
+       "sub": false
+      },
+      {
+       "date": "2026-08-15",
+       "merchant": "ANNUAL FEE REBATE",
+       "amount": -13,
+       "sub": false
+      }
+     ]
+    }
+   ],
+   "flow": {
+    "allowance": 1300,
+    "spent": 370.76000000000005,
+    "over": 0,
+    "left": [
+     {
+      "k": "Take-home",
+      "v": 3600,
+      "c": "#0b0b0b"
+     }
+    ],
+    "mid": [
+     {
+      "k": "Rent",
+      "v": 1250,
+      "c": "#75736d",
+      "alw": false
+     },
+     {
+      "k": "Invest",
+      "v": 800,
+      "c": "#2a78d6",
+      "alw": false
+     },
+     {
+      "k": "Everyday",
+      "v": 1300,
+      "c": "#eb6834",
+      "alw": true
+     },
+     {
+      "k": "Big buys",
+      "v": 250,
+      "c": "#eda100",
+      "alw": false
+     }
+    ],
+    "right": [
+     {
+      "k": "Grocery",
+      "n": "Groceries",
+      "v": 165.04000000000002,
+      "c": "#2a78d6"
+     },
+     {
+      "k": "Dining",
+      "n": "Dining",
+      "v": 122.4,
+      "c": "#eb6834"
+     },
+     {
+      "k": "Shopping",
+      "n": "Shopping",
+      "v": 8.110000000000003,
+      "c": "#eda100"
+     },
+     {
+      "k": "Entertainment",
+      "n": "Entertainment",
+      "v": 34.269999999999996,
+      "c": "#8a5a2b"
+     },
+     {
+      "k": "Health",
+      "n": "Health",
+      "v": 32.99,
+      "c": "#5bc4d6"
+     },
+     {
+      "k": "Fees",
+      "n": "Fees & interest",
+      "v": 7.949999999999999,
+      "c": "#1f3f74"
+     },
+     {
+      "k": "Not spent yet",
+      "v": 929.24,
+      "c": "#efeeea",
+      "rest": true
+     }
+    ]
+   }
+  },
+  {
+   "ym": "2026-09",
+   "label": "Sep 2026",
+   "everyday": 0,
+   "open": false,
+   "daysElapsed": 30,
+   "daysInMonth": 30,
+   "total": 1250,
+   "purchases": 1,
+   "usual": 2425.369999999999,
+   "window": 7,
+   "bigBuys": [],
+   "categories": [
+    {
+     "key": "Housing",
+     "name": "Housing",
+     "color": "#1baf7a",
+     "total": 1250,
+     "usual": 1250,
+     "items": [
+      {
+       "date": "2026-09-01",
+       "merchant": "OTTAWA PROP MGMT RENT (chequing)",
+       "amount": 1250,
+       "sub": false
+      }
+     ]
+    }
+   ],
+   "flow": {
+    "allowance": 1300,
+    "spent": 0,
+    "over": 0,
+    "left": [
+     {
+      "k": "Take-home",
+      "v": 3600,
+      "c": "#0b0b0b"
+     }
+    ],
+    "mid": [
+     {
+      "k": "Rent",
+      "v": 1250,
+      "c": "#75736d",
+      "alw": false
+     },
+     {
+      "k": "Invest",
+      "v": 800,
+      "c": "#2a78d6",
+      "alw": false
+     },
+     {
+      "k": "Everyday",
+      "v": 1300,
+      "c": "#eb6834",
+      "alw": true
+     },
+     {
+      "k": "Big buys",
+      "v": 250,
+      "c": "#eda100",
+      "alw": false
+     }
+    ],
+    "right": []
+   }
+  }
+ ]
+}
